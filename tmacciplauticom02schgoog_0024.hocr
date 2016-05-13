@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplauticom02schgoog_0024.png"; bbox 0 0 2934 5048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 504 1813 1057 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 504 1813 1057 1897">
+     <span class='ocr_line' id='line_1_1' title="bbox 504 1813 1057 1897; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 504 1813 1057 1897; x_wconf 75' lang='lat' dir='ltr'><strong>T·MAOOI·PLAVT1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 350 2077 1205 2212">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 350 2077 1205 2212">
+     <span class='ocr_line' id='line_1_2' title="bbox 350 2077 1205 2212; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 350 2077 1205 2212; x_wconf 80' lang='lat' dir='ltr'>PSEVDOLVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 2386 1104 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 2386 1104 2460">
+     <span class='ocr_line' id='line_1_3' title="bbox 458 2386 1104 2460; baseline -0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 458 2386 1104 2460; x_wconf 83' lang='lat' dir='ltr'><strong>M·IVNIO·M·FIL·PR·VRB·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 557 2634 1259 2727">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 557 2634 1259 2727">
+     <span class='ocr_line' id='line_1_4' title="bbox 557 2634 1259 2727; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 557 2651 1001 2727; x_wconf 73' lang='lat' dir='ltr'>ACTA-MEGALESHS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1254 2634 1259 2639; x_wconf 78' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1472 5048">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1472 5048">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1472 5048; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1472 5048; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
